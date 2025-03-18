@@ -113,7 +113,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📢 Author
 
 **Karthik Raj**  
-GitHub: [karthikkraj]
-
+GitHub: [karthikkraj](https://github.com/karthikkraj)
+ 
 **SriHarsha Bodicherla**  
-GitHub: [jacktherizzler]
+GitHub: [jacktherizzler](https://github.com/jacktherizzler)
+ 
